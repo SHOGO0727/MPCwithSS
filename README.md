@@ -1,3 +1,1 @@
-# Shamir.java includes main method.
-
-#This is secret sharing scheme proposed by Shamir in 1979.
+# This is a secret sharing scheme proposed by Shamir in 1979.
